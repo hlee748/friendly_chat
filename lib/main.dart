@@ -18,7 +18,7 @@ final ThemeData kDefaultTheme = ThemeData(
       .copyWith(secondary: Colors.orangeAccent[400]),
 );
 
-String _name = 'Your Name';
+String _name = 'Julie';
 
 class FriendlyChatApp extends StatelessWidget {
   const FriendlyChatApp({
